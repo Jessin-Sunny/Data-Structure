@@ -1,4 +1,4 @@
-/*
+/* 
 Ex No 1
 You are given two arrays sorted in ascending order. Write a C program to merge the elements of the
 two arrays and to form a single array sorted in ascending order.
