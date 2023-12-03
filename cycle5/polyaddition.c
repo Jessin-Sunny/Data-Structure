@@ -40,7 +40,7 @@ void display(struct poly* head)
         ptr = ptr->link;
         if (ptr != NULL)
         {
-            printf("+");
+            printf(" + ");
         }
     }
 }
