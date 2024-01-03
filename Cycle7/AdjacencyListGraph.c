@@ -1,4 +1,5 @@
 /*Representing Adjacency List for graph*/
+/*Implementation using linked list*/
 #include <stdio.h>
 #include <stdlib.h>
 
