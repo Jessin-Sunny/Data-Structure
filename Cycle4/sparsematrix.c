@@ -81,7 +81,7 @@ void sum(smatrix A[],smatrix B[],smatrix S[])
     c2=B[0].col;
     if((r1!=r2)&&(c1!=c2))
     {
-        printf("Matrix Multiplication is NOT possible\n");
+        printf("Matrix Addition is NOT possible\n");
     }
     else
     {
