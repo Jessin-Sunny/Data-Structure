@@ -7,12 +7,8 @@
 |2   | Serach - Linear Secarch, Binary Serach   |
 |3   | Stack Applications and Queues  |
 |4   | Polynomial Addition Using Array, Sparse Matrix Operations   |
-|5   |   |
-|6   |    |
-|7   |    |
-|8   |    |
-|9   |  |
-|10   |    |
-|11   |    |
-|12   |   |
-|13   |    |
+|5   | Linked List  |
+|6   | Tree   |
+|7   | Graph   |
+|8   |  Sorting  |
+|9   | Hashing |
